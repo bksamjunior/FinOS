@@ -1,6 +1,3 @@
-# FinOS
-FinOS — A cloud-native personal finance system built with Python and PostgreSQL, designed to automate transaction tracking, enforce double-entry accounting, and provide scalable financial insights.
-
 # FinOS – Financial Operating System
 
 FinOS is a cloud-based personal finance system designed to replace spreadsheets and rigid budgeting apps with a scalable, automated, and developer-controlled architecture.
